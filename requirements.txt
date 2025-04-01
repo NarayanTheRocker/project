@@ -6,3 +6,4 @@ speechrecognition
 edge-tts
 pydub
 asyncio
+gunicorn==23.0.0
