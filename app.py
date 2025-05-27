@@ -23,8 +23,8 @@ MEMORY_FILE = "memory.json" # Assuming memory is still used
 # WARDROBE_FILE = "wardrobe.json" # --- REMOVED ---
 LATITUDE = 17.6868 # Replace with your actual latitude
 LONGITUDE = 83.2185 # Replace with your actual longitude
-TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0MGUzZmJjNjgxMGI4NmQ4ODYxZjQ0OTExNTE1MDViZiIsIm5iZiI6MTc0MjI3MDc4My45OTUwMDAxLCJzdWIiOiI2N2Q4ZjEzZjU2MmU4MzJjOTczNjU0NWYiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.nObMMUtgNNXWwlR8Eh-B5hDeZRdI9ObcLpEwCCmLSGc" 
-GROQ_API_KEY = "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"
+TMDB_API_KEY = "" 
+GROQ_API_KEY = ""
 
 # Ensure API keys are loaded
 if not TMDB_API_KEY:
